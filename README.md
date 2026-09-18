@@ -27,7 +27,7 @@ Frontend contributions across a travel platform spanning content websites, booki
 
 - **Matheson:** frontend work on a headless WordPress website using Next.js, React, TypeScript, GraphQL, and Algolia.
 - **Munster Bovine:** React frontend contributions to an Umbraco-integrated livestock catalogue, including API-driven search, responsive results, pagination, and profile-selection interfaces.
-- **Marine Institute — ongoing redevelopment:** contributions to a WordPress component system using ACF Blocks, with responsive UI implementation, accessibility refinements, and automated component checks.
+- **Marine Institute - ongoing redevelopment:** contributions to a WordPress component system using ACF Blocks, with responsive UI implementation, accessibility refinements, and automated component checks.
 - **Merrion Gold:** Next.js and React frontend contributions covering commerce interfaces, price-chart integration, and accessibility improvements.
 - **Fine Software:** Vue shop and administration workflows covering accounts, payments, and licensing.
 - **UCD / UCC / University of Galway:** reusable frontend components and Terminalfour templates, including responsive navigation, progressive enhancement, and accessibility improvements.
