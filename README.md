@@ -11,6 +11,12 @@ Based in Romania. Open to remote permanent and contract roles with EU and US tea
 - [Travel Department / Outbounder](case-studies/travel-department.md) — shared UI, brand implementation, and mobile viewport debugging.
 - [Munster Bovine](case-studies/munster-bovine.md) — API-driven catalogue search and profile-selection interfaces.
 
+## Code sample
+
+[Fieldwork — live demo](https://trotibal-fieldwork.trotyno1.chatgpt.site) · [Source code](https://github.com/trotibal/short-demo)
+
+A React and TypeScript catalogue with fictional data, content loaders, reusable components, SCSS, and tests for filtering, sorting, pagination, and keyboard interaction.
+
 ## Selected professional experience
 
 My professional work includes frontend contributions to client and employer projects:
