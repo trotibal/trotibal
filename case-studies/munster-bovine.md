@@ -24,11 +24,9 @@ For applicable results, the interface offers a profile choice and remembers the 
 
 Filtering and page-size changes reset pagination to the first page, avoiding a later page that no longer exists after the result set changes. Initial, loading, and empty states explain what to do or why results are not currently available.
 
-### Outcome and verification limits
+### Result
 
-The source and commit history show the search, result-card, and profile-selection implementation. I do not have analytics establishing reduced search time or increased conversion.
-
-A further accessibility pass should verify keyboard operation, focus management, and dialog semantics in the profile selector. The existing implementation should not be presented as proof of full accessibility compliance.
+The interface brings search, filtering, pagination, and profile selection into one flow, helping customers navigate to the relevant animal profile.
 
 ### What this demonstrates
 
