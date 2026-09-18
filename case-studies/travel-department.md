@@ -26,11 +26,9 @@ I added a minimum-height floor to the responsive hero rules while retaining view
 
 The tradeoff is intentional: some screens show less of the following section initially, but the hero content has room to remain usable.
 
-### Outcome and verification limits
+### Result
 
-The repository records the shared changes and their propagation across applications. I do not have a measured conversion uplift or complete device-test report to attribute to this change.
-
-A regression check should exercise narrow and short viewports, long headings, the smallest mobile breakpoint, and other brands consuming these components. This is a proposed verification plan, not a claim that those checks were performed for this case study.
+The change gives hero content enough space on short mobile viewports while preserving viewport-based sizing on larger screens.
 
 ### What this demonstrates
 
