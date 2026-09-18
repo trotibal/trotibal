@@ -6,6 +6,11 @@
 
 Based in Romania. Open to remote permanent and contract roles with EU and US teams.
 
+## Case studies
+
+- [Travel Department / Outbounder](case-studies/travel-department.md) — shared UI, brand implementation, and mobile viewport debugging.
+- [Munster Bovine](case-studies/munster-bovine.md) — API-driven catalogue search and profile-selection interfaces.
+
 ## Selected professional experience
 
 My professional work includes frontend contributions to client and employer projects:
