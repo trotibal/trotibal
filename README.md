@@ -2,18 +2,18 @@
 
 12+ years of experience building websites and web applications, with a focus on precise UI implementation, reusable components, accessibility, and improving existing codebases.
 
-**React · Next.js · Vue · TypeScript · GraphQL · Node.js**
+**React Â· Next.js Â· Vue Â· TypeScript Â· GraphQL Â· Node.js**
 
 Based in Romania. Open to remote permanent and contract roles with EU and US teams.
 
 ## Case studies
 
-- [Travel Department / Outbounder](case-studies/travel-department.md) — shared UI, brand implementation, and mobile viewport debugging.
-- [Munster Bovine](case-studies/munster-bovine.md) — API-driven catalogue search and profile-selection interfaces.
+- [Travel Department / Outbounder](case-studies/travel-department.md) â€” shared UI, brand implementation, and mobile viewport debugging.
+- [Munster Bovine](case-studies/munster-bovine.md) â€” API-driven catalogue search and profile-selection interfaces.
 
 ## Code sample
 
-[Fieldwork — live demo](https://trotibal-fieldwork.trotyno1.chatgpt.site) · [Source code](https://github.com/trotibal/short-demo)
+[Fieldwork â€” live demo](https://trotibal-fieldwork.netlify.app) Â· [Source code](https://github.com/trotibal/short-demo)
 
 A React and TypeScript catalogue with fictional data, content loaders, reusable components, SCSS, and tests for filtering, sorting, pagination, and keyboard interaction.
 
@@ -25,7 +25,7 @@ My professional work includes frontend contributions to client and employer proj
 
 Frontend contributions across a travel platform spanning content websites, booking checkout, booking management, gift vouchers, and travel-agent login, supported by a shared UI repository.
 
-**React · Next.js · TypeScript · SCSS · Tailwind CSS · Strapi**
+**React Â· Next.js Â· TypeScript Â· SCSS Â· Tailwind CSS Â· Strapi**
 
 - Implementing Outbounder designs across shared components and connected applications, including brand-specific typography, spacing, navigation, and responsive layouts.
 - Building and refining reusable headers, menus, holiday cards, image galleries, and form controls for multiple brands.
