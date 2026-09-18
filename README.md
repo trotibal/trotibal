@@ -8,12 +8,12 @@ Based in Romania. Open to remote permanent and contract roles with EU and US tea
 
 ## Case studies
 
-- [Travel Department / Outbounder](case-studies/travel-department.md) — shared UI, brand implementation, and mobile viewport debugging.
-- [Munster Bovine](case-studies/munster-bovine.md) — API-driven catalogue search and profile-selection interfaces.
+- [Travel Department / Outbounder](case-studies/travel-department.md) - shared UI, brand implementation, and mobile viewport debugging.
+- [Munster Bovine](case-studies/munster-bovine.md) - API-driven catalogue search and profile-selection interfaces.
 
 ## Code sample
 
-[Fieldwork — live demo](https://trotibal-fieldwork.netlify.app) · [Source code](https://github.com/trotibal/short-demo)
+[Fieldwork - live demo](https://trotibal-fieldwork.netlify.app) · [Source code](https://github.com/trotibal/short-demo)
 
 A React and TypeScript catalogue with fictional data, content loaders, reusable components, SCSS, and tests for filtering, sorting, pagination, and keyboard interaction.
 
